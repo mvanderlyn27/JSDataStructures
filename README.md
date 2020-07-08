@@ -1,2 +1,2 @@
-# JSDataStructures
-Common data structures/algs written in js
+# TSDataStructures
+Common data structures/algs written in ts
